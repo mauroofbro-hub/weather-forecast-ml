@@ -1,0 +1,7 @@
+Model,Task,Accuracy,Accuracy %
+Model 1 - Random Forest,Crop → Month,0.1495,14.95%
+Model 1 - Decision Tree,Crop → Month,0.1495,14.95%
+Model 1 - Logistic Regression,Crop → Month,0.13,13.00%
+Model 2 - Random Forest,Month → Crop,0.0925,9.25%
+Model 2 - Decision Tree,Month → Crop,0.0855,8.55%
+Model 2 - Logistic Regression,Month → Crop,0.0905,9.05%

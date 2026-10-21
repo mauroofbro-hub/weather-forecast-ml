@@ -1,0 +1,22 @@
+{
+    "Rice": "Requires heavy rainfall or irrigation. Maintain standing water during early growth stages. Prefers clayey soil that retains moisture well. Needs warm temperatures throughout growth. Timely weeding and puddling ensure better yield.",
+    "Wheat": "Thrives in cool climates with moderate water. Requires well-drained loamy soil. Needs adequate sunlight during maturity. Avoid waterlogging during early stages. Best suited for regions with cold winters.",
+    "Maize": "Requires a sunny and warm climate with well-drained soil. Highly sensitive to frost and waterlogging. Needs nitrogen-rich soil for better cob development. Regular irrigation during flowering and grain filling boosts yield.",
+    "Sugarcane": "Long-duration crop requiring hot, humid climate and heavy irrigation. Prefers fertile soil with high organic matter. Regular ratoon management and pest control improve productivity.",
+    "Cotton": "Requires warm days and cool nights. Grows best in well-drained black soil. Needs moderate irrigation and cannot tolerate waterlogging. Potash fertilisers improve fibre strength.",
+    "Groundnut": "Grows best in sandy loam soil under warm climate and moderate rainfall. Sensitive to excess moisture. Requires calcium during pod formation and benefits from timely irrigation.",
+    "Pulses": "Hardy crop requiring low water. Enhances soil nitrogen through fixation. Performs well in marginal soils. Sensitive to waterlogging. Requires pest management to prevent pod borer damage.",
+    "Millets": "Drought-resistant crop ideal for low rainfall areas. Grows well in poor soils and high temperatures. Requires minimal inputs. Suitable for dryland and sustainable farming.",
+    "Tea": "Requires cool, humid climate and acidic soil. Grown on slopes to prevent waterlogging. Needs regular pruning and shade trees. Irrigation essential during dry periods.",
+    "Coffee": "Prefers shaded, cool climate with high organic matter soil. Requires consistent rainfall or irrigation. Benefits from mulching and shade regulation. Sensitive to frost.",
+    "Mustard": "Thrives in cool, dry weather with well-drained sandy loam soil. Requires minimal irrigation. Cannot tolerate high humidity. Timely sowing improves oil content.",
+    "Soybean": "Requires warm, moist climate and fertile, well-drained soil. Sensitive to water stagnation. Needs phosphorus-rich fertiliser. Avoid late sowing to ensure proper pod fill.",
+    "Potato": "Cool weather crop requiring loose, friable soil for tuber growth. Needs regular irrigation but cannot tolerate waterlogging. Seed tuber treatment prevents fungal diseases.",
+    "Onion": "Requires mild climate without extreme heat or cold. Needs frequent irrigation. Prefers fertile, well-drained soil. Bulbs must be cured properly after harvest.",
+    "Tomato": "Warm season crop needing well-drained sandy loam soil and full sunlight. Requires regular irrigation. Staking supports plant growth. Balanced fertilisation enhances fruit quality.",
+    "Chilli": "Requires warm, humid climate and organic-rich soil. Needs frequent irrigation during flowering. Sensitive to frost. Requires consistent pest and disease monitoring.",
+    "Banana": "Tropical crop needing high humidity, moisture, and well-drained soil. Requires continuous irrigation. Needs protection from strong winds. Benefits from regular organic manure application.",
+    "Coconut": "Coastal crop requiring high humidity and sandy soil. Tolerates salinity. Needs deep soil and regular watering. Mulching improves moisture retention. Young palms are sensitive to drought.",
+    "Rubber": "Requires hot, humid climate with heavy rainfall. Needs deep, well-drained soil. Shade essential during early growth. Proper tapping methods maintain latex yield.",
+    "Barley": "Cool season crop tolerant to saline and alkaline soils. Requires moderate irrigation. Suitable for dry and semi-arid regions. Must be harvested timely to avoid grain shedding."
+}
